@@ -1,0 +1,21 @@
+<filetype binary="false" description="" name="WHILE">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="//" />
+      <option name="COMMENT_START" value="(*" />
+      <option name="COMMENT_END" value="*)" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="LINE_COMMENT_AT_START" value="false" />
+    </options>
+    <keywords keywords="case;cons;default;else;hd;if;read;switch;tl;while;write" ignore_case="false" />
+    <keywords2 keywords="@:=;@asgn;@cons;@doAsgn;@doCons;@doHd;@doIf;@doTl;@doWhile;@hd;@if;@quote;@tl;@var;@while" />
+    <keywords3 keywords="false;nil;true" />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="while" />
+  </extensionMap>
+</filetype>
